@@ -7,7 +7,7 @@
 ### <div align="left">I'm Denio, a full-time full-stack developer 👨‍💻 working remotely 🚀</div>  
   
 
-- 🔭 I’m currently studyingon [Microverse](https://www.microverse.org/)  
+- 🔭 I’m currently studying on [Microverse](https://www.microverse.org/)  
   
 
 - 🌱 I’m currently learning I’m currently learning Front-end development with React and Backend development with Ruby.  
