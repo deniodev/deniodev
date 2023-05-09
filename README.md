@@ -57,9 +57,8 @@
 
 
 ## Github Stats 
-![](https://github-readme-stats.vercel.app/api?username=deniodev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=deniodev&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deniodev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=deniodev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
 
 
 
