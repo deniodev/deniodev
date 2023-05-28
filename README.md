@@ -56,7 +56,7 @@
 
 
 ## Github Stats 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=deniodev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=deniodev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniodev&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 
@@ -67,6 +67,8 @@
   
 
 <br/>  
+  
+  <br>
 
 [![](https://visitcount.itsvg.in/api?id=deniodev&icon=0&color=0)](https://visitcount.itsvg.in)
   
