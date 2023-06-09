@@ -56,8 +56,12 @@
 
 
 ## Github Stats 
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=deniodev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniodev&layout=compact&theme=buefy&hide_border=true" /></a> |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=deniodev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Denio's Github Stats">
+
+</br>
+  <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prg-04&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/deniodev/github-readme-stats)
 
 
 
@@ -68,7 +72,6 @@
 
 <br/>  
   
-  <br>
 
 [![](https://visitcount.itsvg.in/api?id=deniodev&icon=0&color=0)](https://visitcount.itsvg.in)
   
