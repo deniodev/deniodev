@@ -10,7 +10,7 @@
 - 🔭 I’m currently studying on [Microverse](https://www.microverse.org/)  
   
 
-- 🌱 I’m currently learning I’m currently learning Front-end development with React and Backend development with Ruby.  
+- 🌱 I’m currently learning I’m currently learning  Backend development with Ruby.  
   
 
 - ❓ Ask me about anything.  
@@ -61,7 +61,6 @@
 </br>
   <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prg-04&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/deniodev/github-readme-stats)
 
 
 
