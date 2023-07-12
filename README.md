@@ -46,7 +46,12 @@
 <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a> 
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
 <div>
 
 
@@ -71,10 +76,10 @@
 <h2><i>My GitHub Stats</i></h2>
 
   <a href="https://github.com/deniodev">
-    <img width=450 height=170 align="center" alt="deniodev" src="https://github-readme-stats.vercel.app/api?username=deniodev&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img width=450 height=170 align="center" alt="deniodev" src="https://github-readme-stats.vercel.app/api?username=deniodev&theme=dark&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   <a href="https://github.com/deniodev">
-    <img align="center" alt="deniodev" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniodev&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+    <img align="center" alt="deniodev" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deniodev&theme=dark&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
   
 
