@@ -10,7 +10,7 @@
 - 🔭 I’m currently studying on [Microverse](https://www.microverse.org/)  
   
 
-- 🌱 I’m currently learning I’m currently learning  Backend development with Ruby.  
+- 🌱 I’m currently learning Backend development with Ruby.  
   
 
 - ❓ Ask me about anything.  
