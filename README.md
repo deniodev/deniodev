@@ -10,7 +10,7 @@
 [Portfolio](https://denio-portfolio.vercel.app/)  
   
 
-- 🌱 I’m currently learning Backend development with Ruby.  
+- 🌱 I’m currently learning Nextjs 14.  
   
 
 - ❓ Ask me about anything.  
