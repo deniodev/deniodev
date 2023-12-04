@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="left">I'm Denio, a full-time full-stack developer 👨‍💻 working remotely 🚀</div>  
+### <div align="left">I'm Denio Nhanale, a full-time full-stack developer 👨‍💻 working remotely 🚀</div>  
   
 
 [Portfolio](https://denio-portfolio.vercel.app/)  
