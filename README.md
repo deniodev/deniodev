@@ -16,7 +16,7 @@
 - ❓ Ask me about anything.  
   
 
-- ⚡ I am available for new opportunities. Please feel free to reach out to me.
+- ⚡ I am available for new opportunities.
   
 
 <br/>  
