@@ -8,7 +8,7 @@
 I'm a full-time full-stack developer with a passion for creating seamless web applications. Currently, I'm working remotely, allowing me to collaborate with diverse teams across the globe. 🚀
 
 ### <div align="left"> About Me </div>  
-🌱 Currently Learning: Deepening my knowledge of TypeScript to build more robust and scalable applications. <br>
+🌱 Currently Learning: Enhancing my knowledge of TypeScript to build more robust and scalable applications. <br>
 ❓ Ask Me Anything: I'm always open to sharing knowledge and discussing new ideas. Feel free to reach out! <br>
 ⚡ Available for New Opportunities: I'm excited to explore new challenges and opportunities. Let's create something amazing together! 
 <br/>  
